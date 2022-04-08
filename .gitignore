@@ -367,3 +367,5 @@ bin/
 obj/
 .vs/
 packages/
+src/API/reactivities.db-shm
+src/API/reactivities.db-wal
